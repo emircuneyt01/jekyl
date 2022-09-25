@@ -2,8 +2,8 @@
 # Site
 
 title: Lessploit
-url: "https://lessploit.com"
-baseurl:/jekyl
+url: "https://emircuneyt01.github.io"
+baseurl: /jekyl
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
