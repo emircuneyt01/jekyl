@@ -1,10 +1,12 @@
 - links:
   - name: Contact
     link: /contact/
-- links:
+  - name: Pricing
+    link: /pricing/
+    new_window: false
   - name: Docs
-    link: /
-    new_window: true
+    link: /docs/
+    new_window: false
 - links:
   - name: Twitter
     link: https://twitter.com/lessploit/
