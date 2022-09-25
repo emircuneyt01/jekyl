@@ -18,13 +18,11 @@
 }
 
 header {
-	color: #fff;
+	color: #000000;
 	padding: 20px 0;
-	background: $brand-color; /* Old browsers */
-	background: linear-gradient(to bottom, $brand-color 0%, $middle-gradient-color 100%) no-repeat $brand-color;
-
+	background: #ffffff; /* Old browsers */
 	a {
-		color: #fff;
+		color: #000000;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
